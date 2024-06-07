@@ -17,4 +17,4 @@ At Nova Educational Consultancy, we believe that every student is unique and has
 
 To learn more about our services, visit our website: [Nova Educational Consultancy](https://novaedconsult.com/)
 
-For inquiries, please contact us at: example@email.com
+For inquiries, please contact us at: novaeducationalconsultancy1@gmail.com
