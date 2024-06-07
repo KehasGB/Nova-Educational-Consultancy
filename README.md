@@ -8,7 +8,7 @@ At Nova Educational Consultancy, we believe that every student is unique & has t
 
 ## Our Services
 
-- **Personalized Guidance:** We offer personalized guidance to help students navigate their academic and career paths.
+- **Personalized Guidance:** We offer personalized guidance to help students navigate their academic and career path.
 - **Test Preparation:** Prepare for standardized tests with our specialized test preparation courses.
 - **University Admissions:** Get assistance with university admissions, including application assistance and interview preparation.
 - **Career Counseling:** Explore career options and receive guidance on choosing the right career path.
