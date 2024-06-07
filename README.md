@@ -4,7 +4,7 @@ Welcome to Nova Educational Consultancy, a leading educational consultancy dedic
 
 ## About Us
 
-At Nova Educational Consultancy, we believe that every student is unique and has the potential to excel in their chosen field of study. Our mission is to provide personalized and comprehensive educational solutions to nurture and unlock this potential.
+At Nova Educational Consultancy, we believe that every student is unique & has the potential to excel in their chosen field of study. Our mission is to provide personalized and comprehensive educational solutions to nurture and unlock this potential.
 
 ## Our Services
 
