@@ -1,3 +1,4 @@
+
 # Nova Educational Consultancy
 
 Welcome to Nova Educational Consultancy, a leading educational consultancy dedicated to empowering students in Ethiopia with the knowledge, skills, and guidance needed to achieve their academic and career aspirations.
