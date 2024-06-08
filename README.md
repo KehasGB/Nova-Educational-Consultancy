@@ -1,5 +1,8 @@
 ### Nova Educational Consultancy
 
+<<<<<<< HEAD
+### novaeducationalconsultancy1@gmail.com
+=======
 Welcome to Nova Educational Consultancy, a leading educational consultancy dedicated to empowering students in Ethiopia with the knowledge, skills, and guidance needed to achieve their academic and career aspirations.
 
 ## About Us
@@ -18,3 +21,4 @@ At Nova Educational Consultancy, we believe that every student is unique and has
 To learn more about our services, visit our website: [Nova Educational Consultancy](https://novaedconsult.com/)
 
 contact us : novaeducationalconsultancy1@gmail.com
+>>>>>>> f9a8747aba6948d9d5c7a9c637a91083e4b77ab1
